@@ -30,13 +30,11 @@ Marketing
 Формат входных файлов
 
 
-<ul>
 Обязательные колонки:
-<li>name - имя сотрудника</li>
-<li>department - отдел</li>
-<li>hours_worked - отработанные часы</li>
-<li>Одна из колонок для ставки: hourly_rate, rate или salary</li>
-</ul>
+ - name - имя сотрудника
+ - department - отдел
+ - hours_worked - отработанные часы
+ - Одна из колонок для ставки: hourly_rate, rate или salary
 
 Пример CSV:
 id,email,name,department,hours_worked,hourly_rate
